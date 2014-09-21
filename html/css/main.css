@@ -30,6 +30,9 @@ img {
  height: auto;   
  width: auto\9; /* ie8 */
  padding-top: 5px;
+ border: none;
+ margin: none;
+
 }
 
 ul {
